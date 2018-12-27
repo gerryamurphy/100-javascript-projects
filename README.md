@@ -3,20 +3,17 @@
 
 ## The Rules
 
-1. I will do 100 small JavaScript projects.
+1. 100 smallish JavaScript projects
 2. Quick and time limited, couple of days only
-3. something everyday
+3. Some code something everyday
 
 
 
 ## The Projects
 
-You can also view this list [on the web](http://jessica-eldredge.com/100-days-of-javascript/).
-
-1. **Dochelper** - Load in pdf documents into central location
-2. **Hours to decimals converter** - My verision of todo list
+1. **Dochelper** - Load in pdf documents into central location - done
+2. **todo list** - My verision of todo list
   - todoer
-
 3. **Too Doo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
 4. **Online Store**
