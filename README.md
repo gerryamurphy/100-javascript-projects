@@ -34,7 +34,13 @@
 18. **webpack**
 19. **chartjs/Chart.js**
 20.**dragula** - https://github.com/bevacqua/dragula
+View 10 Wikipedia Articles related to the search term - https://github.com/deadcoder0904/wiki-viewer/
+Weather by IP Address: https://github.com/deadcoder0904/simple-weather-info-from-ip/
+Random quoite generator - https://github.com/deadcoder0904/random-quote-generator/
 
+
+https://www.talater.com/annyang/
+MAC address vendor lookup
 How to Test NodeJS Apps using Mocha, Chai and SinonJS
 
 
@@ -67,6 +73,8 @@ https://exercism.io/
 https://scotch.io/tutorials
 https://scotch.io/tag/node.js
 https://up-for-grabs.net/#/
+https://github.com/toddmotto/public-apis
+https://ipapi.co/
 
 - [mega project ideas list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 - [Advent of code](http://adventofcode.com/)
