@@ -12,8 +12,7 @@
 ## The Projects
 
 1. **Dochelper** - Load in pdf documents into central location - done
-2. **todo list** - My verision of todo list
-  - todoer
+2. **Random quote generator** - https://github.com/gerryamurphy/randomizer
 3. **Too Doo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
 4. **Online Store**
@@ -36,7 +35,8 @@
 20.**dragula** - https://github.com/bevacqua/dragula
 View 10 Wikipedia Articles related to the search term - https://github.com/deadcoder0904/wiki-viewer/
 Weather by IP Address: https://github.com/deadcoder0904/simple-weather-info-from-ip/
-Random quoite generator - https://github.com/deadcoder0904/random-quote-generator/
+
+https://github.com/deadcoder0904/random-quote-generator/
 
 
 https://www.talater.com/annyang/
