@@ -13,26 +13,27 @@
 
 1. **Dochelper** - Load in pdf documents into central location - done
 2. **Random quote generator** - https://github.com/gerryamurphy/randomizer
-3. **Too Doo List** - To do list app using vanilla JS and HTML5 local storage
+3. **Something with Maps** https://github.com/gerryamurphy/mapster
+4. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
-4. **Online Store**
-5. ** Image slider**
-6. **calender app**
-7. **calculator**
-8. **medium clone**
-9. **redit clone**
-10. **word of the day, select language**
-11. **Leitner in node**
-12. **Pomodoro Timer** - A JS implementation of a timer for the Pomodoro Technique.
+5. **Online Store**
+6. **Image slider**
+7. **calender app**
+8. **calculator**
+9. **medium clone**
+10. **redit clone**
+11. **word of the day, select language**
+12. **Leitner in node**
+13. **Pomodoro Timer** - A JS implementation of a timer for the Pomodoro Technique.
   - [website](http://jessica-eldredge.com/pomodoro-timer) | [Github](https://github.com/jessabean/pomodoro-timer)
-11. ** spinner **
-14. **interfacing to docker** - https://scotch.io/bar-talk/working-effectively-with-docker-images
-15. **support ticketing system like in github**
-16. **file uploader** - https://scotch.io/tutorials/express-file-uploads-with-multer
-17. **soemthing with d3**
-18. **webpack**
-19. **chartjs/Chart.js**
-20.**dragula** - https://github.com/bevacqua/dragula
+14. ** spinner **
+15. **interfacing to docker** - https://scotch.io/bar-talk/working-effectively-with-docker-images
+16. **support ticketing system like in github**
+17. **file uploader** - https://scotch.io/tutorials/express-file-uploads-with-multer
+18. **soemthing with d3**
+19. **webpack**
+20. **chartjs/Chart.js**
+21.**dragula** - https://github.com/bevacqua/dragula
 View 10 Wikipedia Articles related to the search term - https://github.com/deadcoder0904/wiki-viewer/
 Weather by IP Address: https://github.com/deadcoder0904/simple-weather-info-from-ip/
 
