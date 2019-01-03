@@ -9,11 +9,14 @@
 
 
 
-## The Projects
+## Projects
 
 1. **Dochelper** - Load in pdf documents into central location - done
-2. **Random quote generator** - https://github.com/gerryamurphy/randomizer
-3. **Something with Maps** https://github.com/gerryamurphy/mapster
+2. **Random quote generator** - https://github.com/gerryamurphy/randomizer - done
+3. **Something with Maps** https://github.com/gerryamurphy/mapster - ongoing
+4. **something with redis** - https://www.codementor.io/brainyfarm/caching-with-redis-node-js-example-h6o9ii72i
+                             - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
+
 4. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
 5. **Online Store**
