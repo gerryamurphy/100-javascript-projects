@@ -16,6 +16,7 @@
 3. **Something with Maps** https://github.com/gerryamurphy/mapster - ongoing
 4. **something with redis** - https://www.codementor.io/brainyfarm/caching-with-redis-node-js-example-h6o9ii72i
                              - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
+                             - https://github.com/gerryamurphy/node-currency-converter axiom, redis, bluebird
 
 4. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
