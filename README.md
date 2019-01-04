@@ -12,7 +12,7 @@
 ## Projects
 
 1. **Dochelper** - Load in pdf documents into central location - done
-2. **Random quote generator** - https://github.com/gerryamurphy/randomizer - done
+2. **Random quote generator** - https://github.com/gerryamurphy/randomizer, updated with axois
 3. **Something with Maps** https://github.com/gerryamurphy/mapster - ongoing
 4. **something with redis** - https://www.codementor.io/brainyfarm/caching-with-redis-node-js-example-h6o9ii72i
                              - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
