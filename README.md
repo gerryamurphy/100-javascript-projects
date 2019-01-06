@@ -30,6 +30,12 @@
 12. **Leitner in node**
 13. **Pomodoro Timer** - A JS implementation of a timer for the Pomodoro Technique.
   - [website](http://jessica-eldredge.com/pomodoro-timer) | [Github](https://github.com/jessabean/pomodoro-timer)
+  https://github.com/sorskoot/CountdownTimer/blob/master/countdown.html
+  https://github.com/piazentin/pomonodoro
+  https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock/
+  https://codepen.io/Moleyo/pen/JdypaP
+  https://medium.freecodecamp.org/how-i-built-my-pomodoro-clock-app-and-the-lessons-i-learned-along-the-way-51288983f5ee
+  
 14. ** spinner **
 15. **interfacing to docker** - https://scotch.io/bar-talk/working-effectively-with-docker-images
 16. **support ticketing system like in github**
