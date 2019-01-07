@@ -13,8 +13,8 @@ https://github.com/datejs/Datejs
 ## Projects
 
 1. **Dochelper** - Load in pdf documents into central location - done
-2. **Random quote generator** - https://github.com/gerryamurphy/randomizer, updated with axois
-3. **Something with Maps** https://github.com/gerryamurphy/mapster - ongoing
+2. **Random quote generator** - https://github.com/gerryamurphy/randomizer, updated with axois  - done
+3. **Something with Maps** https://github.com/gerryamurphy/mapster - basic done
 4. **something with redis** - https://www.codementor.io/brainyfarm/caching-with-redis-node-js-example-h6o9ii72i
                              - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
                              - https://github.com/gerryamurphy/node-currency-converter axiom, redis, bluebird, bulma
@@ -38,9 +38,9 @@ https://github.com/datejs/Datejs
   https://codepen.io/Moleyo/pen/JdypaP
   https://medium.freecodecamp.org/how-i-built-my-pomodoro-clock-app-and-the-lessons-i-learned-along-the-way-51288983f5ee
   
-14. ** spinner **
+14. **Events**
 15. **interfacing to docker** - https://scotch.io/bar-talk/working-effectively-with-docker-images
-16. **support ticketing system like in github**
+16. 
 17. **file uploader** - https://scotch.io/tutorials/express-file-uploads-with-multer
 18. **soemthing with d3**
 19. **webpack**
@@ -48,6 +48,7 @@ https://github.com/datejs/Datejs
 21.**dragula** - https://github.com/bevacqua/dragula
 View 10 Wikipedia Articles related to the search term - https://github.com/deadcoder0904/wiki-viewer/
 Weather by IP Address: https://github.com/deadcoder0904/simple-weather-info-from-ip/
+22. **support site** - **support ticketing system like in github**
 
 https://github.com/deadcoder0904/random-quote-generator/
 
