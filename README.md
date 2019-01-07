@@ -6,7 +6,8 @@
 1. 100 smallish JavaScript projects
 2. Quick and time limited, couple of days only
 3. Some code something everyday
-
+https://devhints.io/
+https://github.com/datejs/Datejs
 
 
 ## Projects
