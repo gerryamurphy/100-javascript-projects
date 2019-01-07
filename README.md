@@ -19,6 +19,10 @@ https://github.com/datejs/Datejs
                              - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
                              - https://github.com/gerryamurphy/node-currency-converter axiom, redis, bluebird, bulma
 5.**StopWatch app** - based on https://github.com/akras14/simple-stopwatch
+    converted countdown to node https://github.com/sorskoot/CountdownTimer/blob/master/countdown.html - done
+
+5a. **Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - gulp
+    
 
 4. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
