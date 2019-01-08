@@ -18,23 +18,27 @@ https://github.com/datejs/Datejs
 4. **something with redis** - https://www.codementor.io/brainyfarm/caching-with-redis-node-js-example-h6o9ii72i
                              - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
                              - https://github.com/gerryamurphy/node-currency-converter axiom, redis, bluebird, bulma
+                             
 5.**StopWatch app** - based on https://github.com/akras14/simple-stopwatch
     converted countdown to node https://github.com/sorskoot/CountdownTimer/blob/master/countdown.html - done
 
-5a. **Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - gulp
-    
+6. **Another Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - introduction to gulp
 
-4. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
+7. **image upload** - based on  https://medium.com/@bmshamsnahid/nodejs-file-upload-using-multer-3a904516f6d2
+
+7. **basic todo app** - based on (https://github.com/jessabean/too-doo-list)
+
+8. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
-5. **Online Store**
-6. **Image slider**
-7. **calender app**
-8. **calculator**
-9. **medium clone**
-10. **redit clone**
-11. **word of the day, select language**
-12. **Leitner in node**
-13. **Pomodoro Timer** - A JS implementation of a timer for the Pomodoro Technique.
+9. **Online Store**
+10. **Image slider**
+11. **calender app**
+12. **calculator**
+13. **medium clone**
+14. **redit clone**
+15. **word of the day, select language**
+16. **Leitner in node**
+17. **Pomodoro Timer** - A JS implementation of a timer for the Pomodoro Technique.
   - [website](http://jessica-eldredge.com/pomodoro-timer) | [Github](https://github.com/jessabean/pomodoro-timer)
   https://github.com/sorskoot/CountdownTimer/blob/master/countdown.html
   https://github.com/piazentin/pomonodoro
@@ -42,10 +46,9 @@ https://github.com/datejs/Datejs
   https://codepen.io/Moleyo/pen/JdypaP
   https://medium.freecodecamp.org/how-i-built-my-pomodoro-clock-app-and-the-lessons-i-learned-along-the-way-51288983f5ee
   
-14. **Events**
-15. **interfacing to docker** - https://scotch.io/bar-talk/working-effectively-with-docker-images
-16. 
-17. **file uploader** - https://scotch.io/tutorials/express-file-uploads-with-multer
+18. **Events**
+19. **interfacing to docker** - https://scotch.io/bar-talk/working-effectively-with-docker-images 
+20. **file uploader** - https://scotch.io/tutorials/express-file-uploads-with-multer
 18. **soemthing with d3**
 19. **webpack**
 20. **chartjs/Chart.js**
