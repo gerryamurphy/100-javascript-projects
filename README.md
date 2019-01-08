@@ -19,7 +19,7 @@ https://github.com/datejs/Datejs
                              - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
                              - https://github.com/gerryamurphy/node-currency-converter axiom, redis, bluebird, bulma
                              
-5.**StopWatch app** - based on https://github.com/akras14/simple-stopwatch
+5. **StopWatch app** - based on https://github.com/akras14/simple-stopwatch
     converted countdown to node https://github.com/sorskoot/CountdownTimer/blob/master/countdown.html - done
 
 6. **Another Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - introduction to gulp
