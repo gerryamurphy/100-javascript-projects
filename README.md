@@ -25,6 +25,7 @@ https://github.com/datejs/Datejs
 6. **Another Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - introduction to gulp
 
 7. **image upload** - based on  https://medium.com/@bmshamsnahid/nodejs-file-upload-using-multer-3a904516f6d2
+https://github.com/chybie/file-upload-express
 
 7. **basic todo app** - based on (https://github.com/jessabean/too-doo-list)
 
