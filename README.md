@@ -14,22 +14,23 @@ https://github.com/datejs/Datejs
 
 1. **Dochelper** - Load in pdf documents into central location - done
 2. **Random quote generator** - https://github.com/gerryamurphy/randomizer, updated with axois  - done
-3. **Something with Maps** https://github.com/gerryamurphy/mapster - basic done
-4. **something with redis** - https://www.codementor.io/brainyfarm/caching-with-redis-node-js-example-h6o9ii72i
-                             - https://www.codementor.io/brainyfarm/introduction-to-caching-and-redis-h6o16p4qx
-                             - https://github.com/gerryamurphy/node-currency-converter axiom, redis, bluebird, bulma
-                             
-5. **StopWatch app** - based on https://github.com/akras14/simple-stopwatch
-    converted countdown to node https://github.com/sorskoot/CountdownTimer/blob/master/countdown.html - done
+3. **Something with Maps** https://github.com/gerryamurphy/mapster -  done
+4. **something with redis** - https://github.com/gerryamurphy/node-currency-converter axiom, redis, bluebird, bulma - done               
+5. **StopWatch app** -  https://github.com/gerryamurphy/TimerCounter - done
 
-6. **Another Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - introduction to gulp
 
-7. **image upload** - based on  https://medium.com/@bmshamsnahid/nodejs-file-upload-using-multer-3a904516f6d2
+6. **basic todo app** - https://github.com/gerryamurphy/todolister - in progress
+
+7. **Another Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - introduction to gulp
+
+8. **image upload** - based on  https://medium.com/@bmshamsnahid/nodejs-file-upload-using-multer-3a904516f6d2
 https://github.com/chybie/file-upload-express
 
-7. **basic todo app** - based on (https://github.com/jessabean/too-doo-list)
 
-8. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
+9. **image upload** - based on  https://medium.com/@bmshamsnahid/nodejs-file-upload-using-multer-3a904516f6d2
+https://github.com/chybie/file-upload-express
+
+10. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
 9. **Online Store**
 10. **Image slider**
