@@ -23,13 +23,14 @@ https://github.com/datejs/Datejs
 
 7. **Another Timer app** - based on https://github.com/jessabean/pomodoro-timer.git - introduction to gulp
 
-8. **image upload** - based on  https://medium.com/@bmshamsnahid/nodejs-file-upload-using-multer-3a904516f6d2
-https://github.com/chybie/file-upload-express
+8. **image Gallery** - - https://github.com/gerryamurphy/imager
+      based on  https://webdesign.tutsplus.com/tutorials/how-to-build-an-attractive-responsive-image-gallery-with-slickjs--cms-31355
 
 
-9. **image upload** - based on  https://medium.com/@bmshamsnahid/nodejs-file-upload-using-multer-3a904516f6d2
-https://github.com/chybie/file-upload-express
 
+
+
+9. **image upload** - base
 10. **ToDo List** - To do list app using vanilla JS and HTML5 local storage
   - [website](http://jessica-eldredge.com/too-doo-list/) | [Github](https://github.com/jessabean/too-doo-list)
 9. **Online Store**
